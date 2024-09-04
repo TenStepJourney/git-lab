@@ -69,3 +69,25 @@ Date:   Wed Sep 4 16:58:21 2024 -0400
     Initial commit
 
 ans 9
+
+On my repository was updated with the inclusion on README.md and answers.md
+
+ans 10
+
+The changes I made online where not recorded.
+
+ans 11
+
+The push did not work because I need to git pull the new repo changes.
+
+ans 12
+
+The Changes I made online Where reflected on my local when i did git pull.
+
+ans 13
+ericjulienhanson@penguin:~/2400/git-lab-2$ ls -a
+.  ..  .git  .gitignore  README.md
+
+
+DONE
+
